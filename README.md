@@ -157,3 +157,4 @@ Yes—it automatically detects whichever vendor cache folders exist on your PC.
 *Independent open-source Windows utility. Not affiliated with NVIDIA, AMD, Intel, or Microsoft.*
  
  
+ 
