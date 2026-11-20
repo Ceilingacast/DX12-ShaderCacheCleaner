@@ -155,3 +155,4 @@ Yes—it automatically detects whichever vendor cache folders exist on your PC.
 - [Win11-GamingDebloatGuard](../Win11-GamingDebloatGuard) — Windows 11 gaming optimizer & background process cleaner
 
 *Independent open-source Windows utility. Not affiliated with NVIDIA, AMD, Intel, or Microsoft.*
+ 
